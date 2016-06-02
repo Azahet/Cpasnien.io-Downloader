@@ -1,0 +1,11 @@
+A:\Projet\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+A:\Projet\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+A:\Projet\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form1.resources
+A:\Projet\WindowsApplication5\WindowsApplication5\bin\Debug\Cpasbien Downloader.exe.config
+A:\Projet\WindowsApplication5\WindowsApplication5\bin\Debug\Cpasbien Downloader.exe
+A:\Projet\WindowsApplication5\WindowsApplication5\bin\Debug\Cpasbien Downloader.pdb
+A:\Projet\WindowsApplication5\WindowsApplication5\bin\Debug\Cpasbien Downloader.xml
+A:\Projet\WindowsApplication5\WindowsApplication5\obj\Debug\Cpasbien Downloader.exe
+A:\Projet\WindowsApplication5\WindowsApplication5\obj\Debug\Cpasbien Downloader.xml
+A:\Projet\WindowsApplication5\WindowsApplication5\obj\Debug\Cpasbien Downloader.pdb
+A:\Projet\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbprojResolveAssemblyReference.cache
