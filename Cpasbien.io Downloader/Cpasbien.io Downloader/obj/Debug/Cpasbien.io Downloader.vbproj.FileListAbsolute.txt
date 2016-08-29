@@ -9,3 +9,16 @@ A:\Projet\Cpasbien.io Downloader\Cpasbien.io Downloader\obj\Debug\Cpasbien.io Do
 A:\Projet\Cpasbien.io Downloader\Cpasbien.io Downloader\obj\Debug\Cpasbien Downloader.exe
 A:\Projet\Cpasbien.io Downloader\Cpasbien.io Downloader\obj\Debug\Cpasbien Downloader.xml
 A:\Projet\Cpasbien.io Downloader\Cpasbien.io Downloader\obj\Debug\Cpasbien Downloader.pdb
+C:\Users\Azahet-pc\Source\Repos\Cpasnien.io-Downloader\Cpasbien.io Downloader\Cpasbien.io Downloader\bin\Debug\Cpasbien Downloader.exe.config
+C:\Users\Azahet-pc\Source\Repos\Cpasnien.io-Downloader\Cpasbien.io Downloader\Cpasbien.io Downloader\obj\Debug\Cpasbien Downloader.exe
+C:\Users\Azahet-pc\Source\Repos\Cpasnien.io-Downloader\Cpasbien.io Downloader\Cpasbien.io Downloader\obj\Debug\Cpasbien Downloader.xml
+C:\Users\Azahet-pc\Source\Repos\Cpasnien.io-Downloader\Cpasbien.io Downloader\Cpasbien.io Downloader\obj\Debug\Cpasbien Downloader.pdb
+C:\Users\Azahet-pc\Source\Repos\Cpasnien.io-Downloader\Cpasbien.io Downloader\Cpasbien.io Downloader\bin\Debug\Cpasbien Downloader.exe
+C:\Users\Azahet-pc\Source\Repos\Cpasnien.io-Downloader\Cpasbien.io Downloader\Cpasbien.io Downloader\bin\Debug\Cpasbien Downloader.pdb
+C:\Users\Azahet-pc\Source\Repos\Cpasnien.io-Downloader\Cpasbien.io Downloader\Cpasbien.io Downloader\bin\Debug\Cpasbien Downloader.xml
+C:\Users\Azahet-pc\Source\Repos\Cpasnien.io-Downloader\Cpasbien.io Downloader\Cpasbien.io Downloader\obj\Debug\Cpasbien.io Downloader.vbprojResolveAssemblyReference.cache
+C:\Users\Azahet-pc\Source\Repos\Cpasnien.io-Downloader\Cpasbien.io Downloader\Cpasbien.io Downloader\obj\Debug\WindowsApplication5.Form1.resources
+C:\Users\Azahet-pc\Source\Repos\Cpasnien.io-Downloader\Cpasbien.io Downloader\Cpasbien.io Downloader\obj\Debug\WindowsApplication5.Resources.resources
+C:\Users\Azahet-pc\Source\Repos\Cpasnien.io-Downloader\Cpasbien.io Downloader\Cpasbien.io Downloader\obj\Debug\Cpasbien.io Downloader.vbproj.GenerateResource.Cache
+C:\Users\Azahet-pc\Source\Repos\Cpasnien.io-Downloader\Cpasbien.io Downloader\Cpasbien.io Downloader\bin\Debug\AlloCineAPI.dll
+C:\Users\Azahet-pc\Source\Repos\Cpasnien.io-Downloader\Cpasbien.io Downloader\Cpasbien.io Downloader\bin\Debug\AlloCineAPI.xml

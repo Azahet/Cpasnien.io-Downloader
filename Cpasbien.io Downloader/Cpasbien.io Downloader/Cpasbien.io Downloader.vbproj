@@ -68,6 +68,9 @@
     <ApplicationIcon>download %281%29.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="AlloCineAPI">
+      <HintPath>..\..\..\..\..\Documents\Visual Studio 2015\Projects\AlloCineAPI.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Deployment" />

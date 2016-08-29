@@ -14,6 +14,7 @@ Imports System.Threading
 'yb   dp 88ybdp88  88 y88  88    `y8b  yb       88  88""    88 y88    88 
 ' ybodp  88 yy 88  88  y8  88  8bodp'   yboodp  88  888888  88  y8    88  
 
+'thank's to JOniiX for the idea and the snipet "Bande annonce"
 
 
 Public Class Form1
@@ -102,4 +103,18 @@ Public Class Form1
     Private Sub TélécharerLaSaisonToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles TélécharerLaSaisonToolStripMenuItem.Click
         down_all(FlatListBox1.SelectedItem.ToString.Replace(" ", "-").ToLower)
     End Sub
+
+    Private Sub InfoToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles InfoToolStripMenuItem.Click
+        bande_annonce()
+    End Sub
+
+    Private Sub bande_annonce()
+        Dim film As String = FlatListBox1.SelectedItem
+        Dim words() As String = {"DVDRIP", "DVDSCR", "FRENCH", "VOSTFR", "WEBRIP", "HDTV", "FINAL"}
+
+        For Each elem As String In words
+            film = film.Replace(" " + elem, "").Replace(" ", "+")
+        Next
+        Process.Start("https://www.youtube.com/results?search_query=" + film + " bande annonce")
+End Sub
 End Class
